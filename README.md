@@ -1,3 +1,9 @@
+# NOTE:
+
+I rebooted this idea afterwards, this time with a smaller book and based on twine. Check it out:
+<https://github.com/JosePedroDias/twine-ff/>
+
+
 We decided to adapt the [Fighting Fantasy](https://www.fightingfantasy.com/) book
 [The Warlock of Firetop Mountain](https://www.amazon.co.uk/Fighting-Fantasy-Warlock-Firetop-Mountain/dp/1407181300)
 
